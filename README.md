@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Dmitry Nazaruk. I am a front-end developer
 Now I am improve my skills in this direction and expanding them with new technologies.
 I plan to further study the framework. 
 In my spare time i solve Codewars and improve my English
 
-### My portfolio 
+## My portfolio 
 
 <a href="https://nazaruk-d.github.io/Portfolio/">Protfolio img</a>
 
 
-### My pet projects
+## My pet projects
 
 ### Social network
 <img width="400px" src="https://sun9-52.userapi.com/impg/UDsx5r08U4dZJfkR97kqI-P1rLGgaG17rMx3lg/0SCzfBxY_ss.jpg?size=2560x1419&quality=96&sign=e09b6f97ff4b33632da558ed6fab70be&type=album">
@@ -18,13 +18,13 @@ In my spare time i solve Codewars and improve my English
 <a href="https://nazaruk-d.github.io/Social-network/">demo</a>  
 <a href="https://github.com/Nazaruk-D/Social-network">repository</a>  
 
-## Education cards
+### Education cards
 <img width="400px" src="https://github.com/Nazaruk-D/EducationCards/raw/main/src/common/assets/image/example.png">
 
 <a href="https://nazaruk-d.github.io/EducationCards">demo</a>  
 <a href="https://github.com/Nazaruk-D/EducationCards">repository</a>  
 
-# Todolist
+### Todolist
 <img width="400px" src="https://github.com/Nazaruk-D/ToDoList/raw/main/src/common/assets/png/Todolist.png">
 
 <a href="https://nazaruk-d.github.io/ToDoList/">demo</a>  
@@ -32,7 +32,7 @@ In my spare time i solve Codewars and improve my English
 
 
 
-### 🔧 ***• Codewars •***
+## 🔧 ***• Codewars •***
 [![Codewars](https://www.codewars.com/users/Nazaruk-D/badges/large)](https://www.codewars.com/users/Nazaruk-D)
 
 <!--
