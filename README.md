@@ -18,7 +18,9 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 <img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</br></br>
+<br/>
+<br/>
+
 ## My pet projects
 
 ### Social network
