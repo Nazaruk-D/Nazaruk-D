@@ -7,7 +7,7 @@ In my spare time i solve Codewars and improve my English
 
 ## My portfolio 
 
-<a href="https://nazaruk-d.github.io/Portfolio/">Protfolio img</a>
+Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 
 
 ## My pet projects
