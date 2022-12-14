@@ -4,10 +4,13 @@ My name is Dmitry Nazaruk. I am a front-end developer
 Now I am improve my skills in this direction and expanding them with new technologies.
 I plan to further study the framework. 
 In my spare time i solve Codewars and improve my English
+<br/>
+
 
 ## My portfolio 
 
 Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
+<br/>
 
 ## My skills 
 
@@ -18,6 +21,7 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 <img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<br/>
 <br/>
 <br/>
 
