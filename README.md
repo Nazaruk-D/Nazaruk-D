@@ -13,22 +13,22 @@ In my spare time i solve Codewars and improve my English
 ### My pet projects
 
 ## Social network
-<img width="800px" src="https://sun9-52.userapi.com/impg/UDsx5r08U4dZJfkR97kqI-P1rLGgaG17rMx3lg/0SCzfBxY_ss.jpg?size=2560x1419&quality=96&sign=e09b6f97ff4b33632da558ed6fab70be&type=album">
+<img width="400px" src="https://sun9-52.userapi.com/impg/UDsx5r08U4dZJfkR97kqI-P1rLGgaG17rMx3lg/0SCzfBxY_ss.jpg?size=2560x1419&quality=96&sign=e09b6f97ff4b33632da558ed6fab70be&type=album">
 
-# <a href="https://nazaruk-d.github.io/Social-network/">demo</a>  
-# <a href="https://github.com/Nazaruk-D/Social-network">repository</a>  
+<a href="https://nazaruk-d.github.io/Social-network/">demo</a>  
+<a href="https://github.com/Nazaruk-D/Social-network">repository</a>  
 
 ## Education cards
-<img width="800px" src="https://github.com/Nazaruk-D/EducationCards/raw/main/src/common/assets/image/example.png">
+<img width="400px" src="https://github.com/Nazaruk-D/EducationCards/raw/main/src/common/assets/image/example.png">
 
-# <a href="https://nazaruk-d.github.io/EducationCards">demo</a>  
-# <a href="https://github.com/Nazaruk-D/EducationCards">repository</a>  
+<a href="https://nazaruk-d.github.io/EducationCards">demo</a>  
+<a href="https://github.com/Nazaruk-D/EducationCards">repository</a>  
 
 ## Todolist
-<img width="800px" src="https://github.com/Nazaruk-D/ToDoList/raw/main/src/common/assets/png/Todolist.png">
+<img width="400px" src="https://github.com/Nazaruk-D/ToDoList/raw/main/src/common/assets/png/Todolist.png">
 
-# <a href="https://nazaruk-d.github.io/ToDoList/">demo</a>  
-# <a href="https://github.com/Nazaruk-D/ToDoList">repository</a> 
+<a href="https://nazaruk-d.github.io/ToDoList/">demo</a>  
+<a href="https://github.com/Nazaruk-D/ToDoList">repository</a> 
 
 
 
