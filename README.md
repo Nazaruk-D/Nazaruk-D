@@ -9,6 +9,15 @@ In my spare time i solve Codewars and improve my English
 
 Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 
+## My skills 
+
+
+<img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+<img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 ## My pet projects
 
