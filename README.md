@@ -12,7 +12,7 @@ In my spare time i solve Codewars and improve my English
 
 ### My pet projects
 
-# Social network
+# <p style={fontWeight: "10px"}> Social network </p>
 <img width="400px" src="https://sun9-52.userapi.com/impg/UDsx5r08U4dZJfkR97kqI-P1rLGgaG17rMx3lg/0SCzfBxY_ss.jpg?size=2560x1419&quality=96&sign=e09b6f97ff4b33632da558ed6fab70be&type=album">
 
 <a href="https://nazaruk-d.github.io/Social-network/">demo</a>  
