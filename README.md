@@ -50,11 +50,8 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 ## 🔧 ***• Codewars •***
 [![Codewars](https://www.codewars.com/users/Nazaruk-D/badges/large)](https://www.codewars.com/users/Nazaruk-D)
 
----
-
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nazaruk-D&theme=blueberry_duo&hide_border=true&border_radius=5.5)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazaruk-D&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
----
