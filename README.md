@@ -50,6 +50,3 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nazaruk-D&theme=blueberry_duo&hide_border=true&border_radius=5.5)](https://git.io/streak-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nazaruk-D&repo=anuraghazra.github.io&theme=buefy" />
-
-
