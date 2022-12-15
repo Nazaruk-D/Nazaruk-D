@@ -7,7 +7,7 @@ I plan to further study the framework.
 In my spare time i solve Codewars and improve my English
 <br/>
 <h1 align="center"><img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /></h1>
-<br>
+
 
 ## My portfolio 
 
@@ -15,7 +15,6 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 <br/>
 
 ## My skills 
-
 
 <img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="JavaScript" width="50px" style="padding-right: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
@@ -48,21 +47,14 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 <a href="https://github.com/Nazaruk-D/ToDoList">repository</a> 
 
 
-
 ## 🔧 ***• Codewars •***
 [![Codewars](https://www.codewars.com/users/Nazaruk-D/badges/large)](https://www.codewars.com/users/Nazaruk-D)
 
-<!--
-**Nazaruk-D/Nazaruk-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nazaruk-D&theme=blueberry_duo&hide_border=true&border_radius=5.5)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
