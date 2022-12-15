@@ -1,6 +1,10 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><br>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<br>
 
-My name is Dmitry Nazaruk. I am a front-end developer
+## About me
+
+My name is Dmitry Nazaruk. I am a front-end developer from Minsk, Belarus.
 Now I am improve my skills in this direction and expanding them with new technologies.
 I plan to further study the framework. 
 In my spare time i solve Codewars and improve my English
