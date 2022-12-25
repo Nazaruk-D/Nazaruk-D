@@ -44,6 +44,12 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 <a href="https://nazaruk-d.github.io/ToDoList/">demo</a>  
 <a href="https://github.com/Nazaruk-D/ToDoList">repository</a> 
 
+### Letter to Santa Claus
+<!--<img width="300px" src="https://github.com/Nazaruk-D/LetterToSanta/raw/main/src/assets/png/letterForSanta.png">-->
+
+<a href="https://nazaruk-d.github.io/LetterToSanta/">demo</a>  
+<a href="https://github.com/Nazaruk-D/LetterToSanta">repository</a> 
+
 
 ## 🔧 ***• Codewars •***
 [![Codewars](https://www.codewars.com/users/Nazaruk-D/badges/large)](https://www.codewars.com/users/Nazaruk-D)
