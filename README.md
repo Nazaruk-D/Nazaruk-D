@@ -26,27 +26,29 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 
 ## ❤️ My pet projects
 
-### Social network
-<!--<img width="300px" src="https://sun9-52.userapi.com/impg/UDsx5r08U4dZJfkR97kqI-P1rLGgaG17rMx3lg/0SCzfBxY_ss.jpg?size=2560x1419&quality=96&sign=e09b6f97ff4b33632da558ed6fab70be&type=album">-->
-
-<a href="https://nazaruk-d.github.io/Social-network/">demo</a>  
-<a href="https://github.com/Nazaruk-D/Social-network">repository</a>  
+### Tesla Shop
+<a href="https://nazaruk-d.github.io/CarShop/">demo</a>  
+<a href="https://github.com/Nazaruk-D/CarShop">repository</a> 
 
 ### Education cards
-<!--<img width="300px" src="https://github.com/Nazaruk-D/EducationCards/raw/main/src/common/assets/image/example.png">-->
-
 <a href="https://nazaruk-d.github.io/EducationCards">demo</a>  
-<a href="https://github.com/Nazaruk-D/EducationCards">repository</a>  
+<a href="https://github.com/Nazaruk-D/EducationCards">repository</a> 
 
-### Todolist
-<!--<img width="300px" src="https://github.com/Nazaruk-D/ToDoList/raw/main/src/common/assets/png/Todolist.png">-->
+### Social network
+<a href="https://nazaruk-d.github.io/Social-network/">demo</a>  
+<a href="https://github.com/Nazaruk-D/Social-network">repository</a>   
 
+### Todolist (React)
 <a href="https://nazaruk-d.github.io/ToDoList/">demo</a>  
 <a href="https://github.com/Nazaruk-D/ToDoList">repository</a> 
 
-### Letter to Santa Claus
-<!--<img width="300px" src="https://github.com/Nazaruk-D/LetterToSanta/raw/main/src/assets/png/letterForSanta.png">-->
+### Todolist (Angular)
+<a href="https://github.com/Nazaruk-D/ToDoList-Angular">repository</a> 
 
+### Todolist (ReactNative)
+<a href="https://github.com/Nazaruk-D/ToDoList-ReactNative">repository</a> 
+
+### Letter to Santa Claus
 <a href="https://nazaruk-d.github.io/LetterToSanta/">demo</a>  
 <a href="https://github.com/Nazaruk-D/LetterToSanta">repository</a> 
 
