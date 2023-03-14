@@ -26,7 +26,7 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 
 ## ❤️ My pet projects
 
-### Tesla Shop
+### Tesla Shop (in progress)
 <a href="https://nazaruk-d.github.io/CarShop/">demo</a>  
 <a href="https://github.com/Nazaruk-D/CarShop">repository</a> 
 
