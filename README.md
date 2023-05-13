@@ -28,19 +28,15 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 
 ### Tesla Shop (in progress)
 <a href="https://nazaruk-d.github.io/CarShop/">demo</a>  
-<a href="https://github.com/Nazaruk-D/CarShop">repository</a> 
+<a href="https://github.com/Nazaruk-D/Review-manager">repository</a> 
 
-### Education cards
-<a href="https://nazaruk-d.github.io/EducationCards">demo</a>  
-<a href="https://github.com/Nazaruk-D/EducationCards">repository</a> 
+### Review-manager
+<a href="https://review-manager-rust.vercel.app">demo</a>  
+<a href="https://github.com/Nazaruk-D/Review-manager">repository</a> 
 
 ### Social network
 <a href="https://nazaruk-d.github.io/Social-network/">demo</a>  
 <a href="https://github.com/Nazaruk-D/Social-network">repository</a>   
-
-### Todolist (React)
-<a href="https://nazaruk-d.github.io/ToDoList/">demo</a>  
-<a href="https://github.com/Nazaruk-D/ToDoList">repository</a> 
 
 ### Todolist (Angular)
 <a href="https://github.com/Nazaruk-D/ToDoList-Angular">repository</a> 
