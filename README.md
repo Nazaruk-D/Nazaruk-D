@@ -24,15 +24,15 @@ Link : <a href="https://nazaruk-d.github.io/Portfolio/">Click to go</a>
 <br/>
 <br/>
 
-## ❤️ My pet projects
-
-### Tesla Shop (in progress)
-<a href="https://nazaruk-d.github.io/CarShop/">demo</a>  
-<a href="https://github.com/Nazaruk-D/Review-manager">repository</a> 
+## ❤️ My projects
 
 ### Review-manager
 <a href="https://review-manager-rust.vercel.app">demo</a>  
 <a href="https://github.com/Nazaruk-D/Review-manager">repository</a> 
+
+### Tesla Shop
+<a href="https://nazaruk-d.github.io/CarShop/">demo</a>  
+<a href="https://github.com/Nazaruk-D/CarShop">repository</a> 
 
 ### Social network
 <a href="https://nazaruk-d.github.io/Social-network/">demo</a>  
